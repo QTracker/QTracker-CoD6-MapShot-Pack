@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE qtracker-dot-com>
+<qtracker-dot-com>
+	<games>
+		<game name="CALLOFDUTY4">
+			<types>
+				<type name="dm">
+					<friendly_name>Deathmatch</friendly_name>
+				</type>
+				<type name="war">
+					<friendly_name>Team Deathmatch</friendly_name>
+				</type>
+				<type name="dom">
+					<friendly_name>Domination</friendly_name>
+				</type>
+				<type name="koth">
+					<friendly_name>Headquarters</friendly_name>
+				</type>
+				<type name="sab">
+					<friendly_name>Sabotage</friendly_name>
+				</type>
+				<type name="sd">
+					<friendly_name>Search and Destroy</friendly_name>
+				</type>
+				<type name="arena">
+					<friendly_name>Arena</friendly_name>
+				</type>
+				<type name="dd">
+					<friendly_name>DD</friendly_name>
+				</type>
+				<type name="ctf">
+					<friendly_name>Capture the Flag</friendly_name>
+				</type>
+				<type name="oneflag">
+					<friendly_name>One Flag</friendly_name>
+				</type>
+				<type name="gtnw">
+					<friendly_name>Global Thermal Nuclear War</friendly_name>
+				</type>
+				<type name="oitc">
+					<friendly_name>One in the Chamber</friendly_name>
+				</type>
+				<type name="gg">
+					<friendly_name>Gun Game</friendly_name>
+				</type>
+				<type name="ss">
+					<friendly_name>Sharp Shooter</friendly_name>
+				</type>
+				<type name="killcon">
+					<friendly_name>Kill Confirmed</friendly_name>
+				</type>
+				<type name="zombies">
+					<friendly_name>Zombies</friendly_name>
+				</type>
+				<type name="gungame">
+					<friendly_name>Gun Game</friendly_name>
+				</type>
+			</types>
+		</game>
+	</games>
+</qtracker-dot-com>
